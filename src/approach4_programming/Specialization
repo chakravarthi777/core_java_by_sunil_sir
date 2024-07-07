@@ -1,0 +1,13 @@
+Notes of specialization 
+
+	specialization is a special method which is used to work with the same type of objects.
+	The argument of the method must be the user defined data type
+	this method is called as specialized method
+	method should be non-static , static
+	
+	syntax : accessspecifer accessmodifier retunrtype methodName(user-defineddatatype orv)
+			 {
+			 	//members of the method
+			 	//the members of userdefined class.
+			 }
+			 orv : object reference variable.

@@ -1,0 +1,29 @@
+	operators
+	java process
+	Methods
+	rules of identifiers
+	Naming formats
+	keywords
+	rules of keywords
+	class and object
+	method overloading
+	Execution process (stack area,heap area ,class loader,main program,garbage collector)
+	Level 1 : method access method (c1,c2,c3,c4)
+	level 2 : members of one class access by another class (c-5,c-6)
+	level 3 : using inheritence; (inheritance :multilevel,single level)
+	approach 1 programming		 - with in a class.
+	approach 2 programming v1,v2 -set method, get methods
+	approach 3 programming 		 -constructors
+	variable ambiguity
+	method overriding
+	final keyword
+	method binding
+	typecasting (upcasting,downcasting)
+	specilization
+	generalization    above 2 belongs to approach 4 programming
+	
+	By shiv sir
+	arrays
+	string
+	
+	
